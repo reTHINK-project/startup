@@ -32,17 +32,10 @@ It is encouraged to use resources from other sponsors to Applications thematic, 
 
 ## Survey
 
-In order to improve reTHINK framework, all TADHack participants using reTHINK framework are kindly requested to provide feedback.
+In order to improve reTHINK framework, all TADHack participants using reTHINK framework are kindly requested to provide feedback:
 
-In case you have developed Applications using Hyperties:
+* [App development survey](https://docs.google.com/forms/d/e/1FAIpQLSeLpZ79p2qKtXEuNk-d_roCWV8W5PuA3jNygBNsOV9LI1Q6lg/viewform)
 
-https://docs.google.com/forms/d/e/1FAIpQLSeLpZ79p2qKtXEuNk-d_roCWV8W5PuA3jNygBNsOV9LI1Q6lg/viewform
-
-In case you have developed Hyperties:
-
-https://docs.google.com/forms/d/e/1FAIpQLSeNvRJ2JC43rkkby0osANqCzVj_a8se8eB3bQ1ymJ_BncHjMg/viewform
-
-
-:
+* [Hyperty development survey](https://docs.google.com/forms/d/e/1FAIpQLSeNvRJ2JC43rkkby0osANqCzVj_a8se8eB3bQ1ymJ_BncHjMg/viewform)
 
 
