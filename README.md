@@ -29,3 +29,20 @@ __Challenge 2__- Interoperability between Apps developed by 2 different teams us
  * Group chat bot with some AI.
 
 It is encouraged to use resources from other sponsors to Applications thematic, for example chat and audio/video customer care for carrefour working on different domains and hyperties. Monitoring applications can be designed (video, sensors, etc..).
+
+## Survey
+
+In order to improve reTHINK framework, all TADHack participants using reTHINK framework are kindly requested to provide feedback.
+
+In case you have developed Applications using Hyperties:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeLpZ79p2qKtXEuNk-d_roCWV8W5PuA3jNygBNsOV9LI1Q6lg/viewform
+
+In case you have developed Hyperties:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeNvRJ2JC43rkkby0osANqCzVj_a8se8eB3bQ1ymJ_BncHjMg/viewform
+
+
+:
+
+
