@@ -13,7 +13,7 @@ The reTHINK Framework provides the tools to build a global decentralised network
 Developers are all invited to join our [Slack channel](https://rethink-project.slack.com/signup) (send an email to contact@rethink-project.eu ), experiment our demos and build on top of it new Hyperties and / or Applications:
   
 *	[Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
-* [Demos](https://hybroker.rethink.ptinovacao.pt/examples/)
+* [Demos](https://hysmart.rethink.ptinovacao.pt)
 *	[Available Hyperties](https://github.com/reTHINK-project/dev-hyperty)
 *	[Quick start to develop Hyperties](https://github.com/reTHINK-project/dev-hyperty-toolkit)
 *	[Quick start to develop Applications with Hyperties](https://github.com/reTHINK-project/dev-app)
