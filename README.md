@@ -1,6 +1,6 @@
-# TADHack2016
 
-This Repo is dedicated to give support to TADHack participants using reTHINK Framework.
+
+This Repo is dedicated to help newcomers to reTHINK giving an overview about reTHINK Framework and some guidelines about where to start.
 
 ## reTHINK Framework Overview
 
@@ -20,19 +20,9 @@ Developers are all invited to join our [Slack channel](https://rethink-project.s
 *	[Tutorials](https://github.com/reTHINK-project/specs/blob/master/tutorials/readme.md)
 *	[Complete Specification](https://github.com/reTHINK-project/specs)
 
-## Challenges
-
-__Challenge 1__- Interoperability between Apps developed by 2 different teams using existing Hyperties. 
-
-__Challenge 2__- Interoperability between Apps developed by 2 different teams using existing Hyperties and new Hyperties, or existing but extended Hyperties. Example of an extended Hyperty could be
- * Communication object to support emojis or the delete or update of sent messages. 
- * Group chat bot with some AI.
-
-It is encouraged to use resources from other sponsors to Applications thematic, for example chat and audio/video customer care for carrefour working on different domains and hyperties. Monitoring applications can be designed (video, sensors, etc..).
-
 ## Survey
 
-In order to improve reTHINK framework, all TADHack participants using reTHINK framework are kindly requested to provide feedback:
+In order to improve reTHINK framework, your feedback is precious to us:
 
 * [App development survey](https://docs.google.com/forms/d/e/1FAIpQLSeLpZ79p2qKtXEuNk-d_roCWV8W5PuA3jNygBNsOV9LI1Q6lg/viewform)
 
