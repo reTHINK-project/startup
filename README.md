@@ -1,6 +1,6 @@
 
 
-This Repo is dedicated to help newcomers to reTHINK giving an overview about reTHINK Framework and some guidelines about where to start.
+This Repo is dedicated to help newcomers to reTHINK giving an overview about reTHINK Framework and some guidelines about where to start reading.
 
 ## reTHINK Framework Overview
 
